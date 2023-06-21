@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LEE-I-HUA
 - 👀 I’m interested in string search & data science
-- 🌱 I’m currently learning web crawler
+- 🌱 I’m currently learning data visulization
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
